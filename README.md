@@ -1,5 +1,5 @@
 # Healthcare No Show Prediction with Machine Learning
-This was the final project I presented for my Data Science and Applied AI Certification. This dataset found in Kaggle, has Brazil data regarding patients, their medical appointments and whether they showed up or not.
+This was the final project I presented for my Data Science and Applied AI Certification. [This dataset](https://www.kaggle.com/datasets/wajahat1064/healthcare-appointment-dataset/data) found in Kaggle, has Brazil data regarding patients, their medical appointments and whether they showed up or not.
 
 ## Executive Summary
 - The dataset indicates that 30% of patients are missing their medical appointments. The objective of the project is to develop a machine learning model capable of identifying those patients that are will miss their appointment so the business can engage with them to confirm their appointment or cancel the appointment to schedule a different patient. 
